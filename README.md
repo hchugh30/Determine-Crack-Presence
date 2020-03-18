@@ -1,5 +1,5 @@
-# Determine-Crack-Presence
-Concrete Crack Identification Using a UAV Incorporating Image Processing. 
+# Concrete Crack Identification Using a UAV Incorporating Image Processing
+
 
 - Model and Results
 To initiate the modelling stage, first we found a dataset with 40,000 images from Mendeley [12]. Then, we developed a model that consists of two stages. In the first one, we determine if there is a crack present in the image.  In the second step, we eliminate the images without a crack and for the remaining ones we try to estimate the width of the crack and categorize it as dangerous or not. 
